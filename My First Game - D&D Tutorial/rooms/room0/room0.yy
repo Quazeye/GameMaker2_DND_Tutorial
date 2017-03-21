@@ -31,7 +31,7 @@
             ],
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
-            "name": "Instances",
+            "name": "Layer_Player",
             "userdefined_depth": false,
             "visible": true,
             "instances": [
@@ -62,11 +62,37 @@
             ]
         },
         {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "8da06d9e-a0a3-4679-82ed-d4dfb1e44262",
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "Layer_Bullet",
+            "userdefined_depth": false,
+            "visible": true,
+            "instances": [
+                
+            ]
+        },
+        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "id": "8a1fbe2a-5b8b-4ef3-8d5f-82a559471bb6",
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
