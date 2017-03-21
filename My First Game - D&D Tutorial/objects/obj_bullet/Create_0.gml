@@ -20,9 +20,9 @@
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 34325322
-/// @DnDArgument : "speed" "60"
+/// @DnDArgument : "speed" "30"
 
 {
-	speed = 60;
+	speed = 30;
 }
 

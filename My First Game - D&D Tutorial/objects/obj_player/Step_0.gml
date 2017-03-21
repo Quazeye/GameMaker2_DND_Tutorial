@@ -51,9 +51,9 @@ if (l7336FD2F_0)
 			/// @DnDVersion : 1
 			/// @DnDHash : 309AB020
 			/// @DnDParent : 1433B237
-			/// @DnDArgument : "expr" "5"
+			/// @DnDArgument : "expr" "7"
 			/// @DnDArgument : "var" "cooldown"
-			cooldown = 5;
+			cooldown = 7;
 			
 	
 	
